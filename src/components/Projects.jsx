@@ -32,6 +32,14 @@ const Projects = () => {
       liveUrl: "https://ch-client-seven.vercel.app/register",
       githubUrl: null,
     },
+    {
+      title: "Plain Tees Store",
+      description:
+        "An online store for a clothing brand that sells t-shirts on whatsapp.",
+      tech: ["Next.js", "Tailwind CSS", "Whatsapp API"],
+      liveUrl: "https://plain-tees.vercel.app",
+      githubUrl: null,
+    },
   ];
 
   const containerVariants = {

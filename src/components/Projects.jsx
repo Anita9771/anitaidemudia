@@ -33,11 +33,19 @@ const Projects = () => {
       githubUrl: null,
     },
     {
-      title: "Plain Tees Store",
+      title: "Plain Tees Online Store",
       description:
         "An online store for a clothing brand that sells t-shirts on whatsapp.",
       tech: ["Next.js", "Tailwind CSS", "Whatsapp API"],
       liveUrl: "https://plain-tees.vercel.app",
+      githubUrl: null,
+    },
+    {
+      title: "Golden Coral Crafts Online Store",
+      description:
+        "An online store for a crafts brand that sells coral beads on whatsapp.",
+      tech: ["Next.js", "Tailwind CSS", "Whatsapp API"],
+      liveUrl: "https://golden-coral-crafts.vercel.app",
       githubUrl: null,
     },
   ];
